@@ -1,16 +1,16 @@
 # README.Md
 
-# [Seu Nome] - Desenvolvedor de Software
+# [Kayke Matos] - Desenvolvedor de Software
 
-Bem-vindo ao meu perfil no GitHub! Sou um apaixonado por programação e desenvolvimento de software, e aqui você encontrará informações sobre mim, meus projetos e como entrar em contato.
+Bem-vindo ao meu perfil no GitHub! Sou um apaixonado por hacking, programação, e etc.
+Aqui você encontrará informações sobre mim, meus projetos e como entrar em contato.
+ 
+## Sobre mim
 
-## Sobre Mim
-
-- 🌍 Localização: [Sua Cidade, Seu País](https://maps.google.com/?q=Sua+Cidade,Sua+Pa%C3%ADs)
 - 👨‍💻 Linguagens de Programação: [Liste as linguagens que você domina]
-- 🌐 Website: [Seu Website Pessoal](https://www.seuwebsite.com)
-- 🔗 LinkedIn: [Seu Perfil no LinkedIn](https://www.linkedin.com/in/seu-username)
-- 📧 Email: [seu@email.com]
+- 🌐 Website: (https://www.website.com)
+- 🔗 LinkedIn: (https://www.linkedin.com/in/seu-username)
+- 📧 Email: [@email.com]
 
 [Inclua uma breve descrição sobre você, suas paixões na programação e qualquer outra informação relevante sobre sua formação e experiência.]
 
@@ -34,24 +34,17 @@ Aqui estão alguns dos projetos em que tenho trabalhado recentemente:
 
 Minhas principais habilidades incluem:
 
-- Linguagem de Programação 1
-- Linguagem de Programação 2
-- Tecnologia 1
-- Tecnologia 2
-
-[Adicione outras habilidades relevantes que você possui.]
-
-## Contribuições para a Comunidade
-
-[Se você contribuiu para projetos de código aberto, mencione-os aqui.]
+- Python
+- HTML
+- JavaScript
+- Css
 
 ## Como Entrar em Contato
 
 Você pode entrar em contato comigo pelos seguintes meios:
 
-- **Email:** seu@email.com
+- **Email:** @email.com
 - **LinkedIn:** [Seu Perfil no LinkedIn](https://www.linkedin.com/in/seu-username)
-- **Website:** [Seu Website Pessoal](https://www.seuwebsite.com)
 
 ## Apreciação pela Visita
 
